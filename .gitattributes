@@ -4,3 +4,4 @@ lab2-ar-main/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 lab3_new/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 lab2-ar-main/Packages/com.ptc.vuforia.engine-10.20.3.tgz filter=lfs diff=lfs merge=lfs -text
 lab3_new/Library/PackageCache/com.unity.burst@1.8.9/.../libburst-llvm-15.dylib filter=lfs diff=lfs merge=lfs -text
+lab3_new/Library/PackageCache/com.unity.burst@1.8.9/.Runtime/libburst-llvm-15.dylib filter=lfs diff=lfs merge=lfs -text

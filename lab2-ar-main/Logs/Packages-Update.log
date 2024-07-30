@@ -1,0 +1,9 @@
+
+=== Wed Mar 20 15:35:17 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.purchasing@4.9.3
+  com.unity.xr.legacyinputhelpers@2.1.10
